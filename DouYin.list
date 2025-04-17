@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 # 微信视频号
 DOMAIN-SUFFIX,szextshort.weixin.qq.com
+# 最右
+DOMAIN-SUFFIX,api.izuiyou.com:443
