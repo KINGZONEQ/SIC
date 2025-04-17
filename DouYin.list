@@ -2,3 +2,9 @@
 DOMAIN-SUFFIX,amemv.com
 # 快手修改IP
 DOMAIN-SUFFIX,ksapisrv.com
+# 小红书修改IP
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+# 微信视频号
+DOMAIN,open.weixin.qq.com
+DOMAIN-SUFFIX,findermp.video.qq.com
+DOMAIN-SUFFIX,channels.weixin.qq.com
