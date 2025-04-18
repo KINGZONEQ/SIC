@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 DOMAIN-SUFFIX,szextshort.weixin.qq.com
 # 最右更改IP
 DOMAIN-SUFFIX,api.izuiyou.com
+# 微博
+DOMAIN-SUFFIX,api.weibo.cn
+# 和平营地
+DOMAIN-SUFFIX,formal.api.gp.qq.com
 # 哔哩哔哩解锁港澳台 更改IP
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
