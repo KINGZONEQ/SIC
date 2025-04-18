@@ -9,11 +9,6 @@ DOMAIN-SUFFIX,szextshort.weixin.qq.com
 # 最右更改IP
 DOMAIN-SUFFIX,api.izuiyou.com
 # 哔哩哔哩解锁港澳台 更改IP
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,bili22.cn
-DOMAIN-SUFFIX,bili2233.cn
-DOMAIN-SUFFIX,bili23.cn
-DOMAIN-SUFFIX,bili33.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.cc
