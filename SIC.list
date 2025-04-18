@@ -10,4 +10,11 @@ DOMAIN-SUFFIX,szextshort.weixin.qq.com
 DOMAIN-SUFFIX,api.izuiyou.com
 # 哔哩哔哩解锁港澳台 更改IP
 DOMAIN-SUFFIX,api.bilibili.com
-DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
