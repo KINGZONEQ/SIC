@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,formal.api.gp.qq.com
 # 哔哩哔哩解锁港澳台 更改IP
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,cm.bilibili.com
+DOMAIN-SUFFIX,httpdns.bilivideo.com
+DOMAIN-SUFFIX,api.vc.bilibili.com
+IP-CIDR,119.36.33.101/32
 IP-CIDR,203.119.206.8/32
 DOMAIN-SUFFIX,app.bilibili.com
 DOMAIN-SUFFIX,biliapi.net
