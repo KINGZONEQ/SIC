@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,api.weibo.cn
 DOMAIN-SUFFIX,formal.api.gp.qq.com
 # 哔哩哔哩解锁港澳台 更改IP
 DOMAIN-SUFFIX,api.bilibili.com
-DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 # 皮皮虾更改IP
