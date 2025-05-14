@@ -1,7 +1,6 @@
 # 抖音更改IP
 DOMAIN-SUFFIX,amemv.com
-IP-CIDR,8.134.241.67/32
-DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,zijieapi.com
 # 快手更改IP
 DOMAIN-SUFFIX,ksapisrv.com
 # 小红书更改IP
